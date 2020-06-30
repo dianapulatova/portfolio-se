@@ -1,0 +1,18 @@
+.nav-color  {
+    background-color: thistle;
+}
+.link-color{
+    color: teal;
+}
+
+footer {
+    background-color: thistle;
+}
+
+#icons {
+    font-size: 30px;
+}
+#img {
+    height: 300px ;
+    width: 300px;
+}
