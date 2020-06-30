@@ -1,5 +1,6 @@
 .nav-color  {
     background-color: thistle;
+    ;
 }
 .link-color{
     color: teal;
@@ -10,7 +11,7 @@ footer {
 }
 
 #icons {
-    font-size: 30px;
+    font-size: 35px;
 }
 #img {
     height: 300px ;
